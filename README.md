@@ -37,7 +37,6 @@ Científico de datos en el **Centro de Ciencia de Datos**.
 
 - 🏆 [**mundial-2026**](https://github.com/JAPerezC/mundial-2026) — Modelo predictivo y dashboard Streamlit para la Copa Mundial 2026.
 - ⚽ [**futbol-analytics**](https://github.com/JAPerezC/futbol-analytics) — Análisis tácticos y de jugadores.
-- 🗺️ [**mxmaps**](https://github.com/JAPerezC/mxmaps) *(fork archivado)* — Mapas temáticos de México con R, basado en el paquete original de [diegovalle](https://github.com/diegovalle).
 
 ## ⚡ Stats
 
